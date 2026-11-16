@@ -45,8 +45,3 @@ If Android does not allow APK installation:
 
 **Important:** You do not need to uninstall the existing application. Updates require the same package name and a compatible signing key.
 
----
-
-## 📌 Release Information
-
-All new versions and APK files are published here:

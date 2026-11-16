@@ -4,7 +4,7 @@
 
 [![Download APK](https://img.shields.io/badge/Download-Latest%20APK-brightgreen?style=for-the-badge&logo=android)](https://github.com/ft-umer/Len-hook-releases/releases/latest)
 
-**[👉 Click Here to Download the Latest APK](https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPOSITORY_NAME/releases/latest)**
+**[👉 Click Here to Download the Latest APK](https://github.com/ft-umer/Len-hook-releases/releases/latest)**
 
 ---
 

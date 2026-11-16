@@ -50,5 +50,3 @@ If Android does not allow APK installation:
 ## 📌 Release Information
 
 All new versions and APK files are published here:
-
-**[View All Releases on GitHub](https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPOSITORY_NAME/releases)**
